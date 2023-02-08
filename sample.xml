@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<analyze>
+    <war-file-location>war.zip</war-file-location>
+    <exploded-war-location>war.zip.exploded</exploded-war-location>
+    <output-file-location>JavaEnumerator.xlsx</output-file-location>
+    <lib-to-analyze>
+        <lib>jira-rest-plugin-8.20.15.jar</lib>
+    </lib-to-analyze>
+</analyze>

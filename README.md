@@ -1,1 +1,1 @@
-# JavaEntrypointsEnumerator
+# JavaEntryPointEnumerator
